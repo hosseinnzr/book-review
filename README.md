@@ -18,6 +18,7 @@ for add new review , in single page review click on "add a review" button to ope
 
 <img src="https://github.com/hosseinnzr/book-review/assets/90951634/52044a6f-172c-493a-a40b-ba481b81150b" width="600">
 
+you can give 1 to 5 start in each review
 
 <img src="https://github.com/hosseinnzr/book-review/assets/90951634/5a12cf3b-7790-4ef0-8cf7-238327ece68b" width="600">
 
